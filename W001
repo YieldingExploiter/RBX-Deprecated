@@ -1,0 +1,2 @@
+# W001
+FakeScript:[GetHash()](Method?Script/GetHash) might be removed in a future version, to save space with the MD5 library. Do not rely on this functionality!
