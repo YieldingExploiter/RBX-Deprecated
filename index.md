@@ -1,7 +1,7 @@
 # RBX-Deprecated
 This repository contains a shortcut to deprecated methods in Roblox.
 
-This is by no means a complete list, and may include things for other projects.
+This is by no means a complete list, and may include things for other projects, not just roblox.
 
 ## Usage
 To use this within your own code, add the following:
@@ -11,7 +11,10 @@ local depWarn = (function()local v = false;local function pad(str,int,chr)repeat
 to your script, then call `depWarn(4)` to tell the user to see [D004](https://yieldingexploiter.github.io/RBX-Deprecated/D004).
 
 ## Contributing
-You can contribute by making a [Pull Request](https://github.com/YieldingExploiter/RBX-Deprecated/pulls)! It doesn't matter if your PR contains Roblox-related Deprecations, or ones related to your own library/libraries! Just file a Pull Request, and it will likely be added.
+You can contribute by making a [Pull Request](https://github.com/YieldingExploiter/RBX-Deprecated/pulls)! It doesn't matter if your PR contains Roblox-API-related Deprecations, or ones related to your own library/libraries! Just file a Pull Request, and it will likely be added.
+
+### Notice
+All contributions must be somehow related to Roblox - whether it's your RBX Library (Exploting and regular Game Development alike), or the Roblox API - it needs ot be Roblox related. Don't start posting fucking Discord SDK Deprecations here or something.
 
 ## List
 <!-- Auto-Generated Code -->
